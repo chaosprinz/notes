@@ -7,4 +7,4 @@ const meineFunktion = function(eins,zwei){
 parameter = ("hoho, haha")
 meineFunktion.apply(this, parameter)
 
-## (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)[Details]
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)[Details]
