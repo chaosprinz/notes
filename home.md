@@ -3,7 +3,7 @@
 ## Projektideen
 
 ### Systemautomation, Scripting
-    - [[Personal Keyboard]]: Jedes Gerät mit webbrowser als personalisiertes Shortcut/Macro-Keyboard nutzen
+- [[Personal Keyboard]] : Jedes Gerät mit webbrowser als personalisiertes Shortcut/Macro-Keyboard nutzen
 
 
 ## Knowledge
