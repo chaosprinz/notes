@@ -15,6 +15,8 @@
 - A windows-shell you will love is [Babun](http://babun.github.io/)
 
 ### Git
-- [[Commits zusammenführen]],
+- [[Commits zusammenführen]]
+- [[Remote Branch löschen]]
+
 #### Javascript
 - [[Array als Parameter-liste]]
