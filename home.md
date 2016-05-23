@@ -4,7 +4,7 @@
 
 ### Systemautomation, Scripting
 - [[Personal Keyboard]] : Jedes Gerät mit webbrowser als personalisiertes Shortcut/Macro-Keyboard nutzen
-
+- [require-gulp-tasks](https://github.com/chaosprinz/require-gulp-tasks) : Aus anderen Modulen exportierte Gulp-tasks, als solche einbinden
 
 ## Knowledge
 
