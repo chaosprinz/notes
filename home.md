@@ -13,6 +13,7 @@
 #### Windows-apps und kniffe
 - Display einstellungen via cmd-line mit [Display](http://noeld.com/programs.asp#Display)
 - A windows-shell you will love is [Babun](http://babun.github.io/)
+- Portforwading mit [rinetd](http://www.ehowstuff.com/how-to-install-and-configure-port-forwarding-using-rinetd-in-windows/), [download here](https://boutell.com/rinetd/)
 
 ### Git
 - [[Commits zusammenführen]]
