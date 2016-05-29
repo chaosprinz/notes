@@ -24,6 +24,11 @@
 ### Javascript
 - [[Array als Parameter-liste]]
 
+#### unijas-knowledge-base
+- [[Data-Modelling]]
+- [[State-Management]]
+- [[Views/ViewController]]
+	- 
 #### node.js
 - [[Express subapps as controller/router]]
 
