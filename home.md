@@ -17,21 +17,20 @@
 - A windows-shell you will love is [Babun](http://babun.github.io/)
 - Portforwading mit [rinetd](http://www.ehowstuff.com/how-to-install-and-configure-port-forwarding-using-rinetd-in-windows/), [download here](https://boutell.com/rinetd/)
 
-### Git
+#### Git
 - [[Commits zusammenführen]]
 - [[Remote Branch löschen]]
 
-### Javascript
+### Development
+
+#### Javascript
 - [[Array als Parameter-liste]]
 - [[unijas-knowledge-base]]
-- [[Data-Modelling]]
-- [[State-Management]]
-- [[Views/ViewController]]
 
-#### node.js
+##### node.js
 - [[Express subapps as controller/router]]
 
-### Unreal Engine 4.xxx
+#### Unreal Engine 4.xxx
 - [HTML5-UIs mit BLUI](https://github.com/AaronShea/BLUI)
 
 ### Projekt helper
