@@ -23,8 +23,7 @@
 
 ### Javascript
 - [[Array als Parameter-liste]]
-
-#### unijas-knowledge-base
+- [[unijas-knowledge-base]]
 - [[Data-Modelling]]
 - [[State-Management]]
 - [[Views/ViewController]]
